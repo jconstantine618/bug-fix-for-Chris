@@ -1,16 +1,7 @@
-# Backend
-fastapi>=0.110
-uvicorn>=0.24
-python-multipart>=0.0.9
-GitPython>=3.1.43
+streamlit>=1.36
+openai>=1.35
 rank-bm25>=0.2.2
-numpy>=1.26
 pillow>=10.3.0
 pytesseract>=0.3.10
-
-# Frontend
-streamlit>=1.36
-requests>=2.31
-
-# OpenAI
-openai>=1.35
+GitPython>=3.1.43
+numpy>=1.26
